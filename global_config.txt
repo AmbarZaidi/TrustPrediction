@@ -1,0 +1,4 @@
+path = "./"
+dataset = "GujaratElections"
+
+path = path + dataset
